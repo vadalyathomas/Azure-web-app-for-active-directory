@@ -1,6 +1,4 @@
 # Azure-web-app-for-active-directory
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
 
 ‣ I created an Azure web app that uses Azure Active Directory authentication.
 
