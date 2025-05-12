@@ -2,6 +2,8 @@
 
 ‣ I created an Azure web app that uses Azure Active Directory authentication.
 
+ ![completed-azure-active-directory](https://github.com/user-attachments/assets/cbefebb5-643c-4510-8593-53b01778e808)
+
 name: Build and deploy ASP app to Azure Web App - MyWebApp-51205482
 
 on:
@@ -58,7 +60,4 @@ jobs:
           slot-name: 'Production'
           package: .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92D5F50CAA704AB7A9B45EB5990BD328 }}
-
-
-          ![completed-azure-active-directory](https://github.com/user-attachments/assets/cbefebb5-643c-4510-8593-53b01778e808)
 
