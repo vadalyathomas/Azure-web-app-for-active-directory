@@ -1,6 +1,6 @@
 # Azure-web-app-for-active-directory
 
-‣ I created an Azure web app that uses Azure Active Directory authentication.
+‣ I created an Azure web app that uses Azure Active Directory (Microsoft Entra ID) authentication.
 
  ![completed-azure-active-directory](https://github.com/user-attachments/assets/cbefebb5-643c-4510-8593-53b01778e808)
 
